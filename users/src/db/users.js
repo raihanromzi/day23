@@ -1,5 +1,3 @@
-const users = [
-  { a: 'hello' }
-]
+const users = []
 
 module.exports = users

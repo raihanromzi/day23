@@ -1,5 +1,5 @@
 const getAllUsersHandler = require('./getAll')
-const createUsersHandler = require('./getAll')
+const createUsersHandler = require('./createUser')
 
 module.exports = {
   getAllUsersHandler,
